@@ -1,0 +1,2 @@
+class TypPosition < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TypCompany < ApplicationRecord
+end

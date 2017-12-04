@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  weight_in_grams: 
+  price: 
+  available: 
+  quantity: 
+  expiry_date: 
+  image: MyString
+
+two:
+  name: MyString
+  description: MyText
+  weight_in_grams: 
+  price: 
+  available: 
+  quantity: 
+  expiry_date: 
+  image: MyString

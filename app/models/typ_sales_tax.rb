@@ -1,0 +1,2 @@
+class TypSalesTax < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class OrgContact < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TrxOrderItem < ApplicationRecord
+end

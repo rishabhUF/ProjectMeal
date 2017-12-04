@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  iso: MyString
+  iso3: MyString
+  country: MyString
+  continent: MyString
+  cuurency_code: MyString
+  currency_name: MyString
+  phone_prefix_string: MyString
+
+two:
+  iso: MyString
+  iso3: MyString
+  country: MyString
+  continent: MyString
+  cuurency_code: MyString
+  currency_name: MyString
+  phone_prefix_string: MyString

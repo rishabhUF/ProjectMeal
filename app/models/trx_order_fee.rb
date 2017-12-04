@@ -1,0 +1,2 @@
+class TrxOrderFee < ApplicationRecord
+end

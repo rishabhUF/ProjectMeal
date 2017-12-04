@@ -1,0 +1,2 @@
+class OrgProduct < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TypFee < ApplicationRecord
+end

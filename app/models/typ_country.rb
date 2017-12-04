@@ -1,0 +1,2 @@
+class TypCountry < ApplicationRecord
+end

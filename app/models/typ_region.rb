@@ -1,0 +1,2 @@
+class TypRegion < ApplicationRecord
+end

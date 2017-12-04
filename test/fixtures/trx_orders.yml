@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total_amount: 
+  purchased_at: 2017-12-04 11:18:31
+  trasport_method: MyString
+
+two:
+  total_amount: 
+  purchased_at: 2017-12-04 11:18:31
+  trasport_method: MyString

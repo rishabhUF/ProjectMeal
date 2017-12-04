@@ -1,0 +1,2 @@
+class TypContact < ApplicationRecord
+end
